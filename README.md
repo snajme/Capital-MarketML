@@ -8,6 +8,7 @@ This repository contains a collection of machine learning projects related to th
 - [Project 2: Credit Scoring](./credit_scoring)
 - [Project 3: Risk Assessment](./risk_assessment)
 - [Project 4: Algorithmic Trading](./algorithmic_trading)
+- [project 5: crypto Frequency Analysis]()
 
 ## Project Descriptions
 
