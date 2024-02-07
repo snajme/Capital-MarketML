@@ -32,6 +32,8 @@ The algorithmic trading project explores the application of machine learning in 
 
 To get started with any of the projects in this repository, simply navigate to the respective project directory and follow the instructions provided in the project's README file.
 
+## crypto Frequency Analysis
+
 ## Contributing
 
 If you would like to contribute to this repository by adding your own machine learning projects related to the Fintech domain, feel free to submit a pull request. We welcome contributions from the community to expand the collection of projects in this repository.
