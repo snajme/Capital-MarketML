@@ -30,11 +30,12 @@ The risk assessment project involves building machine learning models to assess 
 
 The algorithmic trading project explores the application of machine learning in developing trading strategies and predicting market trends. The project covers data analysis, model development, backtesting, and performance evaluation.
 
+## crypto Frequency Analysis
+
 ## Getting Started
 
 To get started with any of the projects in this repository, simply navigate to the respective project directory and follow the instructions provided in the project's README file.
 
-## crypto Frequency Analysis
 
 ## Contributing
 
