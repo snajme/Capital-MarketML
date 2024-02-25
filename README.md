@@ -1,6 +1,6 @@
 # Machine Learning Projects Related to the Fintech Domain
 
-This repository contains a collection of machine learning projects related to the Fintech domain. The projects included in this repository cover various aspects of Fintech, such as fraud detection, credit scoring, risk assessment, and more.
+This repository contains a collection of machine learning projects related to the Fintech domain. The projects included in this repository cover various aspects of Fintech, such as fraud detection, credit scoring, and risk assessment. Each notebook covers a different aspect of financial technology, including topics such as cryptocurrency trends, stock market predictions, and algorithmic trading strategies. These notebooks provide valuable insights and practical examples for anyone interested in exploring the intersection of finance and technology. Whether you are a data scientist, financial analyst, or just curious about the latest trends in FinTech, this repository offers a comprehensive resource for learning and experimentation.
 
 ## Table of Contents
 
